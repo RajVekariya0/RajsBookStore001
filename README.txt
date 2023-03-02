@@ -15,4 +15,12 @@ AND..
 
 Tested the app... ran it good .. tested links 
 Action Items:
--modify 
+-Modify the nevigation
+-Update the copyroght.. from "static" to "Dynamic"
+
+0321 pm
+modified the default welcome messege.. tested
+review the rout pattern in startup.cs file
+
+0322pm
+clone the repository to github and not selcted private
