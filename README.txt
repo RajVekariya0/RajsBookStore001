@@ -24,3 +24,11 @@ review the rout pattern in startup.cs file
 
 0322pm
 clone the repository to github and not selcted private
+
+2023-03-03
+
+0314 pm
+
+confirmed the repo is done and now i want to test it....
+
+
