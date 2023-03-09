@@ -32,3 +32,19 @@ clone the repository to github and not selcted private
 Confirmed the repo is done and now i want to test it....
 Created README.md file on github and pull the request from VISUAL STUDIO so i can see it on my solution explore as well....
 
+hy there
+2023-03-09
+
+0203 pm
+Working on bootsrape 
+In WWWROOT - CSS folder changed bootsrap.css too bootsrape_bk.css for backup purpose
+added bootstrape.min.css from boothwatch.com
+
+added code to  bootstrape.min.css (selected theme :- Quartz
+A glassmorphic layer)
+
+0230pm
+
+
+
+
