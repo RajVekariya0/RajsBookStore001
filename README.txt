@@ -42,9 +42,12 @@ added bootstrape.min.css from boothwatch.com
 
 added code to  bootstrape.min.css (selected theme :- Quartz
 A glassmorphic layer)
-
 0230pm
 
+RUN THE APPLICATION ALL IS WORKING.. TEHEME HAS BEEN APPLIED
+0307 PM
+In  VIEWS/SHARED/layout.chhtml.... added bew nav bar regarding my theme selection and changes old nav portion by changing code..
+trying to run the code if it is working or not..
 
 
 
