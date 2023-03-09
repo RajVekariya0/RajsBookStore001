@@ -57,7 +57,7 @@ changed default navbar to "application name" rajs book store..
 Figure that out by suffuring on google...
                         <li class="nav-item dropdown">
                          <a class="nav-link dropdown-toggle" id="navbarDrodownMenuLink">
-                         This class needs to be added on Layout.chhtml_ for DROPDOWN..
+                         This class needs to be added on Layout.chhtml_ for DROPDOWN..  LINE NUMBER "28, 30"
 Lets see is it working or not...
 everything is working.. well .!!
 
