@@ -47,7 +47,27 @@ A glassmorphic layer)
 RUN THE APPLICATION ALL IS WORKING.. TEHEME HAS BEEN APPLIED
 0307 PM
 In  VIEWS/SHARED/layout.chhtml.... added bew nav bar regarding my theme selection and changes old nav portion by changing code..
+and keep needed nav properties...!!
 trying to run the code if it is working or not..
+
+all good ..!!!
+DROPDOWN IS NOT WORKING... TRYING TO FIGURE IT OUT..
+changed default navbar to "application name" rajs book store..
+
+Figure that out by suffuring on google...
+                        <li class="nav-item dropdown">
+                         <a class="nav-link dropdown-toggle" id="navbarDrodownMenuLink">
+                         This class needs to be added on Layout.chhtml_ for DROPDOWN..
+Lets see is it working or not...
+everything is working.. well .!!
+
+TIme to commit on github..
+0340PM
+
+
+
+
+
 
 
 
