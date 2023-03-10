@@ -31,8 +31,6 @@
 
                             <div class="dropdown-menu" aria-labelledby="navbarDrodownMenuLink ">
                                 <a class="dropdown-item" href="#">Action</a>
-                                <a class="dropdown-item" href="#">Another action</a>
-                                <a class="dropdown-item" href="#">Something else here</a>
                                 <div class="dropdown-divider"></div>
                                 <a class="dropdown-item" href="#">Separated link</a>
                             </div>
@@ -48,14 +46,15 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
+    <footer class="border-top footer text-muted text-black bg-white border-bottom ">
+        <div class="container" style="
+    color: black;
+">
             &copy; 2023 - RajsBookStore - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @RenderSection("Scripts", required: false)
+  @await  RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
