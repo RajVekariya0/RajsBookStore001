@@ -95,6 +95,24 @@ last step is building the project.
 RUN THE PPLICATION AND GOT ERROR 
 Error	CS0234	The type or namespace name 'Data' does not exist in the namespace 'RajsBookStore' (are you missing an assembly reference?)	RajsBookStore	C:\Users\W0802730\Source\Repos\RajVekariya0\RajsBookStore\Startup.cs	10	Active
 
+commited on github
+
+0300 PM
+Moved models folder into RajsBookStore.Models
+and develed the original once.
+CHnaged namespace in Models>> ErrorViewModels.cs 
+
+Modify Views > Shared >Error.cshtml
+added project references .DataAccess and .Models changed name of Models and made it Viewmodels. 
+
+removed using statement
+modified Startup.cs file deleted line number 10 wich was""using RajsBookStore.Data;""
+
+Clean, rebuild and build the application is runnig well..
+time to commit on git hub
+0338 PM
+
+
 
 
 
