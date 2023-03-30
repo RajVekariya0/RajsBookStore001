@@ -64,8 +64,19 @@ everything is working.. well .!!
 TIme to commit on github..
 0340PM
 
+PART - 2
 
+It is strange that i had commented on 2023-03-23 lecture time and also coimmited to the git hub, and it is not visible on readme.
 
+so let's start 
+2023-03-30
+2.03 PM
+
+added Three new projects (.NET Core class library) to the application: which is RajsBookStore.DataAccess, 2 RajsBookStore.Models,    3 RajsBookStore.Utility
+
+Copied "DATA" folder from the original space and pasted on the new created project RajsBookStore.DataAccess
+
+02.32 PM
 
 
 
