@@ -17,6 +17,7 @@
   <ItemGroup>
     <ProjectReference Include="..\RajsBookStore.DataAccess\RajsBookStore.DataAccess.csproj" />
     <ProjectReference Include="..\RajsBookStore.Models\RajsBookStore.Models.csproj" />
+    <ProjectReference Include="..\RajsBookStore.Utility\RajsBookStore.Utility.csproj" />
   </ItemGroup>
 
 </Project>

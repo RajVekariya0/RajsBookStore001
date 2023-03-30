@@ -110,7 +110,15 @@ modified Startup.cs file deleted line number 10 wich was""using RajsBookStore.Da
 
 Clean, rebuild and build the application is runnig well..
 time to commit on git hub
+
 0338 PM
+rEMOVED ALL EROORS REVIEW APPLICATION IS WELL RUNNING
+
+0347 PM
+Added cladd Sd.cs to the Utility Project 
+
+Added project reference to the main project 
+Added references to the DataAccess Project of Models and Utility
 
 
 
