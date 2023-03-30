@@ -78,6 +78,28 @@ Copied "DATA" folder from the original space and pasted on the new created proje
 
 02.32 PM
 
+INSTALLED Microsoft.EntityFramework Core.Relational and Core.SqlServer packages
+FROM tools >> Nuget Package manager >> manage nugat package for solution >> search for Core.relational and Core.Sqlserver >> selected the proper install version 3.1.32 and installed it.
+
+Deleted the migrations folder
+
+Installed Identity.EntityFramework Core NuGet
+ModifED the namespace to ApplicationDbContext.cs file too namespace RajsBookStore.DataAccess.Data
+
+Deleted all calss1.cs file from new created classes.
+last step is building the project.
+
+0251 PM
+
+
+RUN THE PPLICATION AND GOT ERROR 
+Error	CS0234	The type or namespace name 'Data' does not exist in the namespace 'RajsBookStore' (are you missing an assembly reference?)	RajsBookStore	C:\Users\W0802730\Source\Repos\RajVekariya0\RajsBookStore\Startup.cs	10	Active
+
+
+
+
+
+
 
 
 
